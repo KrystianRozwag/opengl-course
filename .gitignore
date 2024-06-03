@@ -34,9 +34,4 @@
 /OpenGL/x64
 *.idb
 *.tlog
-/OpenGL/x64
-*.ilk
-*.tlog
-*.idb
-*.pdb
 *.pdb
